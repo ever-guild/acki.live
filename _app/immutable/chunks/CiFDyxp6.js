@@ -1,4 +1,4 @@
-import{e as y}from"./BzX2F8xg.js";async function l(o,a={}){try{const t=await(await fetch(y.graphqlEndpoint,{method:"POST",headers:{"Content-Type":"text/plain"},body:JSON.stringify({query:o,variables:a})})).json();return console.log("GraphQL Response:",t),t}catch(e){return console.error("GraphQL Error:",e),{data:null,errors:[e]}}}async function g(){var e;const a=await l(`
+import{e as y}from"./C4RyBbwH.js";async function l(o,a={}){try{const t=await(await fetch(y.graphqlEndpoint,{method:"POST",headers:{"Content-Type":"text/plain"},body:JSON.stringify({query:o,variables:a})})).json();return console.log("GraphQL Response:",t),t}catch(e){return console.error("GraphQL Error:",e),{data:null,errors:[e]}}}async function g(){var e;const a=await l(`
     query GetLatestBlocks($limit: Int!) {
       blocks(orderBy: [{ path: "gen_utime", direction: DESC }], limit: $limit) {
         id
