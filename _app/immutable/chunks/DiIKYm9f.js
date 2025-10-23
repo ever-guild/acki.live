@@ -1,4 +1,4 @@
-var h=Object.defineProperty;var x=(n,t,a)=>t in n?h(n,t,{enumerable:!0,configurable:!0,writable:!0,value:a}):n[t]=a;var i=(n,t,a)=>x(n,typeof t!="symbol"?t+"":t,a);import{g as f}from"./DTpoW4qT.js";import{t as s,g as y,i as k,p as C}from"./dOC9I46v.js";import{d as P}from"./B6saGABT.js";const w=`{
+var h=Object.defineProperty;var x=(n,t,a)=>t in n?h(n,t,{enumerable:!0,configurable:!0,writable:!0,value:a}):n[t]=a;var i=(n,t,a)=>x(n,typeof t!="symbol"?t+"":t,a);import{g as f}from"./C0htPYIV.js";import{t as s,g as y,i as k,p as C}from"./dOC9I46v.js";import{d as P}from"./B6saGABT.js";const w=`{
 	"ABI version": 2,
 	"version": "2.4",
 	"header": ["pubkey", "time", "expire"],
