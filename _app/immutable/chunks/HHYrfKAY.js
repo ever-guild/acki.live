@@ -1,4 +1,4 @@
-import{e as m}from"./BdcfehaN.js";const n={GetInfo:`
+import{e as m}from"./CNoRuncm.js";const n={GetInfo:`
     query GetInfo {
       info {
         lastBlockTime
