@@ -1,0 +1,1 @@
+const a={BASE_URL:"./",DEV:!1,MODE:"production",PROD:!0,SSR:!1};var i={};let t=!1;try{t=!1}catch{t=!1}const e=a??i,o={production:!t,develop:t,api:(e==null?void 0:e.ACKI_LIVE_API)??(t?"https://dev.acki.live/":"https://acki.live/"),graphqlEndpoint:(e==null?void 0:e.ACKI_LIVE_GRAPHQL)??"http://archive.acki.live:8080/graphql"};export{o as e};
