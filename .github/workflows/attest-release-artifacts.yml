@@ -2,7 +2,7 @@ name: attest release artifacts
 
 on:
   push:
-    branches: [ release ]
+    branches: [release]
 
 jobs:
   attest:
