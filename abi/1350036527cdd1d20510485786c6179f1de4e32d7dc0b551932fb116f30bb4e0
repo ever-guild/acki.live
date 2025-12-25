@@ -1,6 +1,4 @@
 {
-  "name": "UpdateZeroContract",
-  "compiler": "sol 0.79.3",
   "name": "USDCRoot",
   "compiler": "sol 0.79.0",
   "abi": {
