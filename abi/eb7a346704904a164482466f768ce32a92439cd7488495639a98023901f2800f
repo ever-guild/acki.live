@@ -1,6 +1,6 @@
 {
   "name": "USDCRoot",
-  "compiler": "sol 0.79.3",
+  "compiler": "sol 0.79.0",
   "abi": {
     "ABI version": 2,
     "version": "2.4",
