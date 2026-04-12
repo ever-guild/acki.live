@@ -1,0 +1,1 @@
+function r(t,e){if(t)return"error";switch(e?.toLowerCase()){case"finalized":case"committed":case"accepted":return"success";case"aborted":case"failed":case"rejected":return"error";case"pending":case"unknown":return"warning";default:return e?"info":"warning"}}export{r as a};

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "popit-game",
+    "name": "Popit Game",
+    "icon": "assets/logos/games/popit-game-icon.avif",
+    "logo": "assets/logos/games/popit-game-icon.avif",
+    "description": "Massively multiplayer roguelike card game — climb tower Blocks, use game-breaking Popits, mine $NACKL",
+    "contractAddresses": [],
+    "platforms": ["Acki Nacki"],
+    "categories": ["Card Game"],
+    "website": "https://popitgames.ackinacki.com",
+    "twitter": "https://x.com/ackinackichain",
+    "discord": "https://discord.gg/gc7JYQgu2m",
+    "telegram": "https://t.me/ackinackinews"
+  },
+  {
+    "id": "die-last",
+    "name": "DIE LAST",
+    "icon": "assets/logos/games/die-last.svg",
+    "logo": "assets/logos/games/die-last.svg",
+    "description": "Fully on-chain MMORTS — regenerate a decaying world through teamwork, DAO-governed with Karma",
+    "contractAddresses": [],
+    "platforms": ["Acki Nacki"],
+    "categories": ["Strategy"],
+    "website": "https://dielast.io",
+    "twitter": "https://x.com/playdielast",
+    "discord": "https://discord.gg/dielast",
+    "telegram": ""
+  },
+  {
+    "id": "ludobid",
+    "name": "LudoBid",
+    "icon": "assets/logos/games/ludobid.png",
+    "logo": "assets/logos/games/ludobid.png",
+    "description": "Classic Ludo board game with crypto prizes, tournaments, and play-to-mine NACKL",
+    "contractAddresses": [],
+    "platforms": ["Acki Nacki"],
+    "categories": ["Board Game"],
+    "website": "",
+    "twitter": "",
+    "discord": "",
+    "telegram": "https://t.me/LudoBidBot"
+  },
+  {
+    "id": "acki-nacki-tma",
+    "name": "Acki Nacki TMA",
+    "icon": "assets/logos/wallets/acki-nacki-tma.png",
+    "logo": "assets/logos/wallets/acki-nacki-tma.png",
+    "description": "Telegram Mini App — mine NACKL, complete boost tasks, referral program",
+    "contractAddresses": [],
+    "platforms": ["Acki Nacki"],
+    "categories": ["Mining"],
+    "website": "https://t.me/ackinacki_bot",
+    "twitter": "",
+    "discord": "",
+    "telegram": "https://t.me/ackinacki_bot"
+  },
+  {
+    "id": "acki-nacki-miner-bot",
+    "name": "Acki Nacki Miner Bot",
+    "icon": "assets/logos/wallets/acki-nacki-miner.png",
+    "logo": "assets/logos/wallets/acki-nacki-miner.png",
+    "description": "Telegram mining game — mine NACKL tokens, instant transfers, lightweight wallet",
+    "contractAddresses": [],
+    "platforms": ["Acki Nacki"],
+    "categories": ["Mining"],
+    "website": "https://t.me/ackinacki_miner_bot",
+    "twitter": "",
+    "discord": "",
+    "telegram": "https://t.me/ackinacki_miner_bot"
+  }
+]
