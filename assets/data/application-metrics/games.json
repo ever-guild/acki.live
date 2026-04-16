@@ -1,0 +1,67 @@
+[
+  {
+    "id": "popit-game",
+    "uaw": 45200,
+    "uawChange24h": 18.3,
+    "transactions": 234500,
+    "transactionsChange24h": 12.7,
+    "volume": 0,
+    "volumeChange24h": 0,
+    "txsPerUaw": 5.19,
+    "rank": 1
+  },
+  {
+    "id": "die-last",
+    "uaw": 12800,
+    "uawChange24h": 6.4,
+    "transactions": 87300,
+    "transactionsChange24h": 4.2,
+    "volume": 0,
+    "volumeChange24h": 0,
+    "txsPerUaw": 6.82,
+    "rank": 2,
+    "token": {
+      "symbol": "LAST",
+      "price": 0.0012,
+      "priceChange24h": 2.85
+    }
+  },
+  {
+    "id": "ludobid",
+    "uaw": 8400,
+    "uawChange24h": 32.1,
+    "transactions": 41200,
+    "transactionsChange24h": 24.8,
+    "volume": 0,
+    "volumeChange24h": 0,
+    "txsPerUaw": 4.9,
+    "rank": 3,
+    "token": {
+      "symbol": "LUDO",
+      "price": 0.0087,
+      "priceChange24h": 15.4
+    }
+  },
+  {
+    "id": "acki-nacki-tma",
+    "uaw": 5000000,
+    "uawChange24h": 3.2,
+    "transactions": 12500000,
+    "transactionsChange24h": 5.1,
+    "volume": 0,
+    "volumeChange24h": 0,
+    "txsPerUaw": 2.5,
+    "rank": 4
+  },
+  {
+    "id": "acki-nacki-miner-bot",
+    "uaw": 87600,
+    "uawChange24h": 14.2,
+    "transactions": 156800,
+    "transactionsChange24h": 18.3,
+    "volume": 0,
+    "volumeChange24h": 0,
+    "txsPerUaw": 1.79,
+    "rank": 5
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "dex-do",
+    "uaw": 18700,
+    "uawChange24h": 8.4,
+    "transactions": 94200,
+    "transactionsChange24h": 5.6,
+    "rank": 2
+  },
+  {
+    "id": "ackiscan-live",
+    "uaw": 12400,
+    "uawChange24h": 3.1,
+    "transactions": 0,
+    "transactionsChange24h": 0,
+    "rank": 3
+  },
+  {
+    "id": "beescan",
+    "uaw": 8900,
+    "uawChange24h": 6.7,
+    "transactions": 0,
+    "transactionsChange24h": 0,
+    "rank": 4
+  },
+  {
+    "id": "bee-engine",
+    "uaw": 21300,
+    "uawChange24h": 22.5,
+    "transactions": 156800,
+    "transactionsChange24h": 18.3,
+    "rank": 1
+  },
+  {
+    "id": "ackinax",
+    "uaw": 340,
+    "uawChange24h": 4.2,
+    "transactions": 12800,
+    "transactionsChange24h": 3.1,
+    "rank": 8
+  },
+  {
+    "id": "reward-calculator",
+    "uaw": 3200,
+    "uawChange24h": -1.2,
+    "transactions": 0,
+    "transactionsChange24h": 0,
+    "rank": 6
+  },
+  {
+    "id": "simulator",
+    "uaw": 1800,
+    "uawChange24h": 2.3,
+    "transactions": 0,
+    "transactionsChange24h": 0,
+    "rank": 7
+  },
+  {
+    "id": "gosh",
+    "uaw": 5600,
+    "uawChange24h": 1.8,
+    "transactions": 34200,
+    "transactionsChange24h": 2.4,
+    "rank": 5
+  }
+]

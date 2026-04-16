@@ -1,0 +1,1 @@
+import{D as s,f as n,u as r,x as o}from"./chunk-4HRPKSGR.js";function x(t){t||(t=o(s));let i=new n(e=>{if(t.destroyed){e.next();return}return t.onDestroy(e.next.bind(e))});return e=>e.pipe(r(i))}export{x as a};

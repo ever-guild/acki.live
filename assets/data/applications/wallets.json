@@ -1,11 +1,13 @@
 [
   {
+    "legacyId": "1",
     "id": "acki-nacki-wallet",
     "name": "Acki Nacki Wallet",
     "icon": "assets/logos/wallets/acki-nacki-wallet-icon.webp",
     "logo": "assets/logos/wallets/acki-nacki-wallet-icon.webp",
     "description": "Official non-custodial wallet — ZK Login authentication, multisig support, social recovery, NACKL & SHELL token management",
     "contractAddresses": [],
+    "metricsSource": "offchain",
     "platforms": ["Android", "iOS", "Web"],
     "features": ["ZK Login", "Non-custodial", "NACKL & SHELL", "Multisig", "Social Recovery"],
     "website": "https://ackinacki.com/wallet"
