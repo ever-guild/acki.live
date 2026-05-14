@@ -216,7 +216,7 @@ function debugString(val) {
   if (val instanceof Error) {
     return `\${val.name}: \${val.message}\\n\${val.stack}`;
   }
-  // TODO we could test for more things here, like `Set`s and `Map`s.
+  // Additional built-in object types can be handled here if the worker ever needs them.
   return className;
 }
 
@@ -1139,8 +1139,6 @@ async function __wbg_init(input) {
   return __wbg_finalize_init(instance, module);
 }
 
-// export default __wbg_init;
-
 //****************************************************************** WRAPPER END
 
 function replaceUndefinedWithNulls(value) {
@@ -1191,39 +1189,88 @@ async function replaceBlobsWithArrayBuffers(value) {
   return value;
 }
 
+function serializeWorkerError(error, fallbackMessage) {
+  if (error instanceof Error) {
+    return {
+      name: error.name,
+      message: error.message,
+      stack: error.stack ?? null,
+    };
+  }
+  if (typeof error === 'string' && error.trim()) {
+    return {
+      name: 'Error',
+      message: error,
+      stack: null,
+    };
+  }
+  return {
+    name: 'Error',
+    message: fallbackMessage,
+    stack: null,
+  };
+}
+
+function postWorkerError(type, error, requestId) {
+  const payload = {
+    type,
+    error: serializeWorkerError(error, 'Unknown TVM worker error'),
+  };
+  if (requestId !== undefined) {
+    payload.requestId = requestId;
+  }
+  postMessage(payload);
+}
+
 self.onmessage = (e) => {
   const message = e.data;
   switch (message.type) {
     case 'init':
       (async () => {
-        await __wbg_init(message.wasmModule);
-        postMessage({ type: 'init' });
+        try {
+          await __wbg_init(message.wasmModule);
+          postMessage({ type: 'init' });
+        } catch (error) {
+          postWorkerError('initError', error);
+        }
       })();
       break;
 
     case 'createContext':
-      postMessage({
-        type: 'createContext',
-        result: core_create_context(message.configJson),
-        requestId: message.requestId,
-      });
+      try {
+        postMessage({
+          type: 'createContext',
+          result: core_create_context(message.configJson),
+          requestId: message.requestId,
+        });
+      } catch (error) {
+        postWorkerError('createContextError', error, message.requestId);
+      }
       break;
 
     case 'destroyContext':
-      core_destroy_context(message.context);
-      postMessage({
-        type: 'destroyContext',
-      });
+      try {
+        core_destroy_context(message.context);
+        postMessage({
+          type: 'destroyContext',
+        });
+      } catch (error) {
+        postWorkerError('destroyContextError', error);
+      }
       break;
 
     case 'request':
       (async () => {
-        core_request(
-          message.context,
-          message.functionName,
-          await replaceBlobsWithArrayBuffers(message.functionParams),
-          message.requestId
-        );
+        try {
+          core_request(
+            message.context,
+            message.functionName,
+            await replaceBlobsWithArrayBuffers(message.functionParams),
+            message.requestId
+          );
+        } catch (error) {
+          postWorkerError('requestError', error, message.requestId);
+        }
       })();
       break;
   }
