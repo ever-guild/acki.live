@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://acki.live/</loc>
+  </url>
+  <url>
+    <loc>https://acki.live/blocks</loc>
+  </url>
+  <url>
+    <loc>https://acki.live/transactions</loc>
+  </url>
+  <url>
+    <loc>https://acki.live/messages</loc>
+  </url>
+  <url>
+    <loc>https://acki.live/statistics</loc>
+  </url>
+  <url>
+    <loc>https://acki.live/contracts</loc>
+  </url>
+  <url>
+    <loc>https://acki.live/validation</loc>
+  </url>
+  <url>
+    <loc>https://acki.live/emission</loc>
+  </url>
+  <url>
+    <loc>https://acki.live/contributing</loc>
+  </url>
+</urlset>
