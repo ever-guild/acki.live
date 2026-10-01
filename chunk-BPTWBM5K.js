@@ -1,4 +1,4 @@
-import{b as m,d as b}from"./chunk-CQ7MDNOL.js";import{L as p,P as k,l as u}from"./chunk-AGICBAG2.js";var q=`
+import{b as m,d as b}from"./chunk-XZMOEJ4Y.js";import{L as p,P as k,l as u}from"./chunk-AGICBAG2.js";var q=`
                 id
                 account_addr
                 now
