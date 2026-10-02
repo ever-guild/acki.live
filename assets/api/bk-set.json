@@ -11,7 +11,6 @@
     {
       "ownerAddress": "0:145725136819ceb3f4c38a6dbfcaf328a2c20d934800598b3cadf88e1fb989d5",
       "signerIndex": 186,
-      "ip": "206.42.104.176",
       "stake": "1191431215700780",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -330,7 +329,6 @@
     {
       "ownerAddress": "0:cd0ab637a0500935c6fdf01ad2192b3b5ed12fe186704f8376e1d0a66d4221bc",
       "signerIndex": 259,
-      "ip": "45.90.150.186",
       "stake": "1362890520395640",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -649,7 +647,6 @@
     {
       "ownerAddress": "0:2018a2548ce0b107774bdb623dc4fa30ccf38e7269288c2093c555f416fad797",
       "signerIndex": 342,
-      "ip": "45.90.150.50",
       "stake": "1223794283915880",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -968,7 +965,6 @@
     {
       "ownerAddress": "0:bab4ec18ceb9d9f7d31b03b7ec18132ae9fefc79ec9f4b04031fd8813118dfc0",
       "signerIndex": 361,
-      "ip": "206.42.104.194",
       "stake": "1191540102402080",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -1287,7 +1283,6 @@
     {
       "ownerAddress": "0:9e5c70258efd39decdaafdcb2d723457677eba2546bafbebd0a04ae2de38ad21",
       "signerIndex": 436,
-      "ip": "94.156.233.73",
       "stake": "1192216581152920",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -1606,7 +1601,6 @@
     {
       "ownerAddress": "0:c019e048fa7ab80993b5b7b1386af138fe207b3d9cb92d7b9d515915f3fbd43f",
       "signerIndex": 804,
-      "ip": "206.42.104.209",
       "stake": "1191235641913400",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -1925,7 +1919,6 @@
     {
       "ownerAddress": "0:af1f797c4389cd181eff9b545cfa7449fe3f83722519c17db645163284d6a79c",
       "signerIndex": 1022,
-      "ip": "45.90.150.162",
       "stake": "1362491792570960",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -2244,7 +2237,6 @@
     {
       "ownerAddress": "0:f1ae74a7614626febc7226662d35d227147f126594a55dd7a0bc3a5cada5db05",
       "signerIndex": 1027,
-      "ip": "94.156.233.61",
       "stake": "1361219762471980",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -2563,7 +2555,6 @@
     {
       "ownerAddress": "0:5d20696ccb930bbadd536c6a7b77f9e30b301a2487f3272d5a9b647ceba4faca",
       "signerIndex": 1218,
-      "ip": "45.90.150.82",
       "stake": "1177993693966240",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -2882,7 +2873,6 @@
     {
       "ownerAddress": "0:c0a07d04d40f719e02914f05918b389229d6cb6499da8dfe86201ae07fb7b8c9",
       "signerIndex": 1225,
-      "ip": "206.42.104.185",
       "stake": "1204253523443440",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -3201,7 +3191,6 @@
     {
       "ownerAddress": "0:916cabe0629453a2f80f468466f919a404f0a695471e908a06c0edb4092d7613",
       "signerIndex": 1336,
-      "ip": "206.42.104.187",
       "stake": "1191880272055600",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -3520,7 +3509,6 @@
     {
       "ownerAddress": "0:2e42c13bb389dad1bb81c8df8efa930dce8ee6d5e7429da3b40e0c9a10e8ef66",
       "signerIndex": 1556,
-      "ip": "45.90.150.82",
       "stake": "1219534732209180",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -3839,7 +3827,6 @@
     {
       "ownerAddress": "0:1c19cd55d44ec8666266d508dc0fd33c5fc2285f05495bfc0fe1db616f2b8022",
       "signerIndex": 1612,
-      "ip": "206.42.104.152",
       "stake": "1349186318586380",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -4158,7 +4145,6 @@
     {
       "ownerAddress": "0:c93cded79f2b8a22f2da9d8afa76a7bec0c76cd21a6beee2b279ec5d67c138b1",
       "signerIndex": 1613,
-      "ip": "94.156.178.73",
       "stake": "1196851145069940",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -4477,7 +4463,6 @@
     {
       "ownerAddress": "0:57cd7fe9dd2d731e1bfd5088ef78b28fde2b9da2c6c0cb6264b12a4d99182540",
       "signerIndex": 1622,
-      "ip": "45.90.150.34",
       "stake": "1321097047511180",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -4796,7 +4781,6 @@
     {
       "ownerAddress": "0:f56e2f8bfd065448de31f1e00773a9d003fa11ef7e0d5897515885c566bfddea",
       "signerIndex": 1660,
-      "ip": "94.156.178.32",
       "stake": "1193165109975780",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -5115,7 +5099,6 @@
     {
       "ownerAddress": "0:38a925bafb448a46587586a4d8822e83ba1697866e7976ecb0ff7a8b67bea23e",
       "signerIndex": 1750,
-      "ip": "94.156.178.70",
       "stake": "1361397944030160",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -5434,7 +5417,6 @@
     {
       "ownerAddress": "0:b0276de42be27e2f192172d3b4eaa4e4dfe75c1ea73738a38bcfaf0cb1c03f75",
       "signerIndex": 1843,
-      "ip": "94.156.178.44",
       "stake": "1361494753363540",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -5753,7 +5735,6 @@
     {
       "ownerAddress": "0:1922112674dbbae7901480be1d845dcbc76e193df326ad1bf99ed538b20576c9",
       "signerIndex": 1865,
-      "ip": "45.90.150.210",
       "stake": "1193644725735580",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -6072,7 +6053,6 @@
     {
       "ownerAddress": "0:140c1a304b58b123904f5c2af5800cbd2c3aaaf5e8fd74191e9aea3ad46165f9",
       "signerIndex": 2126,
-      "ip": "206.42.104.206",
       "stake": "1191397747036460",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -6391,7 +6371,6 @@
     {
       "ownerAddress": "0:8c3bc57d7e053b9476d98fda140fd323053c958c5c6a489ad4b7be9a874bd590",
       "signerIndex": 2144,
-      "ip": "94.156.233.76",
       "stake": "1192762586279680",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -6710,7 +6689,6 @@
     {
       "ownerAddress": "0:3acd0d0d16a35ade4b658d307c047510d07a071cbd5aad16e27a8faa57329591",
       "signerIndex": 2183,
-      "ip": "206.42.104.203",
       "stake": "1191219990406860",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -7029,7 +7007,6 @@
     {
       "ownerAddress": "0:3c3899196532dfe99bc47ad91839c5425b70991410838facfa34502dbe7c90cc",
       "signerIndex": 2226,
-      "ip": "45.90.150.42",
       "stake": "1361207131537660",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -7348,7 +7325,6 @@
     {
       "ownerAddress": "0:2fec600a878aa11f5d139f5cc5c1c1ee6c886d980f905e3c63e7e70fe92a6f28",
       "signerIndex": 2235,
-      "ip": "94.156.233.28",
       "stake": "1192561411409900",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -7667,7 +7643,6 @@
     {
       "ownerAddress": "0:2e124ee899bb0970afb0e5bd0ce85a1a5f1ea1d0aa8440a4e1e0080a220adcb4",
       "signerIndex": 2297,
-      "ip": "45.90.150.42",
       "stake": "1356840555214340",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -7986,7 +7961,6 @@
     {
       "ownerAddress": "0:733e033541ad17c4251cdf97378045e44d8eb89ddfe4659cf5b45e4376a3a02e",
       "signerIndex": 2422,
-      "ip": "206.42.104.133",
       "stake": "1195756638924040",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -8305,7 +8279,6 @@
     {
       "ownerAddress": "0:0ae12214a8aec16e1f3895c3691b142f045c1f4071c743113df9f230174d8e22",
       "signerIndex": 2469,
-      "ip": "206.42.104.180",
       "stake": "1191438474910560",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -8624,7 +8597,6 @@
     {
       "ownerAddress": "0:5da33d43f2e1528cf53261d01dc49f20ffe39120a78f8d599bb29c324b9058d1",
       "signerIndex": 2516,
-      "ip": "31.44.1.14",
       "stake": "1323784653146220",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -8943,7 +8915,6 @@
     {
       "ownerAddress": "0:ddd536d07b2441d95801025417326c7354f5efe2097ff6bbf33712093bdddb5f",
       "signerIndex": 2533,
-      "ip": "94.156.178.52",
       "stake": "1361587768786120",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -9262,7 +9233,6 @@
     {
       "ownerAddress": "0:c1a90e3be6a8c85b97e1f7591f9d4d8544952f86975884da1c17f05baaa83254",
       "signerIndex": 2561,
-      "ip": "94.156.178.40",
       "stake": "1360525610984360",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -9581,7 +9551,6 @@
     {
       "ownerAddress": "0:616e4fc8f126603f38ca2bd0898671263ebcc2c35c141e439bf341af4e41d1b0",
       "signerIndex": 2721,
-      "ip": "45.90.150.162",
       "stake": "1301488246794440",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -9900,7 +9869,6 @@
     {
       "ownerAddress": "0:e49edefa8864e07891d58dff51de22e1e53da6d0c8fa2e3d689215a20417ece5",
       "signerIndex": 2763,
-      "ip": "206.42.104.172",
       "stake": "1195535720826520",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -10219,7 +10187,6 @@
     {
       "ownerAddress": "0:c2654393a72428d5dba86b833ce4ea0cc4bb722c0434411a00164f685b70d3d6",
       "signerIndex": 2810,
-      "ip": "206.42.104.131",
       "stake": "1376304601487040",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -10538,7 +10505,6 @@
     {
       "ownerAddress": "0:9b583cf136ac5bf35b3e6cc916f5d045b8f1c3f919ac4127cde8ac12fd43367f",
       "signerIndex": 3127,
-      "ip": "94.156.178.41",
       "stake": "1358782183034620",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -10857,7 +10823,6 @@
     {
       "ownerAddress": "0:739bee6d09cfe4b171ca6eecfb9491f18a1d01bdc5cca095ab72b18d6fb63ae3",
       "signerIndex": 3247,
-      "ip": "45.90.150.218",
       "stake": "1192319563912760",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -11176,7 +11141,6 @@
     {
       "ownerAddress": "0:5da4bb8db09ce474b238a4af50107ea5e9eb4c165310f0728a4e0130ac1d4eec",
       "signerIndex": 3452,
-      "ip": "206.42.104.190",
       "stake": "1342844936443420",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -11495,7 +11459,6 @@
     {
       "ownerAddress": "0:9abebe70a1838147cca4cc9e6c165abab4c38226dd095a09a23f26b48fe082f6",
       "signerIndex": 3471,
-      "ip": "157.90.1.36",
       "stake": "112294057262174",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -11544,7 +11507,6 @@
     {
       "ownerAddress": "0:15b35e7ce24bd1b8bdebc815d103cf0400b1285319be7c5bd9e71c4e5fd5f9d2",
       "signerIndex": 3515,
-      "ip": "206.42.104.167",
       "stake": "1191338026545260",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -11863,7 +11825,6 @@
     {
       "ownerAddress": "0:6ee141edcc5bb5752d5b6ac72e83901e6923121bdf0e1ba5d815de03e6dd2ac2",
       "signerIndex": 3680,
-      "ip": "94.156.178.63",
       "stake": "1197207096746360",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -12182,7 +12143,6 @@
     {
       "ownerAddress": "0:410dde14a933be597fedcb713600209f6db0df2357c3779a2871bf56bb180c68",
       "signerIndex": 3890,
-      "ip": "94.156.178.68",
       "stake": "1197034075435100",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -12501,7 +12461,6 @@
     {
       "ownerAddress": "0:5d40fe4cf6bdb8157f2c79affae6a1c63ede038c8be8d26c33672b032848317e",
       "signerIndex": 3932,
-      "ip": "206.42.104.181",
       "stake": "1192650180019400",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -12820,7 +12779,6 @@
     {
       "ownerAddress": "0:e4508d1d779101b94b73e50669830faa97a68b5e60ec60a4a85e27e4b8dbbb69",
       "signerIndex": 4000,
-      "ip": "94.156.233.50",
       "stake": "1193177554165780",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -13139,7 +13097,6 @@
     {
       "ownerAddress": "0:b77184db10ad13a40447cf4f509c06cd3109e6de046c2e4b14080d6166605b14",
       "signerIndex": 4012,
-      "ip": "94.156.233.80",
       "stake": "1361255525031100",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -13458,7 +13415,6 @@
     {
       "ownerAddress": "0:da3ee01ce643cf6ffd048912ac0061ffd1b19940ddde58b79b16584a91ad4ace",
       "signerIndex": 4465,
-      "ip": "94.156.178.53",
       "stake": "1361558876535580",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -13777,7 +13733,6 @@
     {
       "ownerAddress": "0:82fab141214936bb7ae43e6d263cf5f4d05c95955e50e452cbc443adad6b2b42",
       "signerIndex": 4700,
-      "ip": "94.156.178.74",
       "stake": "1192355916504480",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -14096,7 +14051,6 @@
     {
       "ownerAddress": "0:3922871dc436ae347875b1476d37b29909abf6c84fd744b61942e52748043122",
       "signerIndex": 5190,
-      "ip": "206.42.104.192",
       "stake": "1362331060689300",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -14415,7 +14369,6 @@
     {
       "ownerAddress": "0:5516973b65813bf80b7429407cf10993da66bdfba8fcf42a448099c4d92dd33b",
       "signerIndex": 5504,
-      "ip": "206.42.104.159",
       "stake": "1361665873456960",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -14734,7 +14687,6 @@
     {
       "ownerAddress": "0:acc2925950301c77279d97c82b46d3ab8b1f0f345a2f6dc5cf7aa70700ef5559",
       "signerIndex": 5829,
-      "ip": "206.42.104.163",
       "stake": "1278402871216520",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -15053,7 +15005,6 @@
     {
       "ownerAddress": "0:2a770704bdfbdc6d848b27abcee9dfeb4f20e3122c78bc1e0bdfd01f9c2e9704",
       "signerIndex": 5842,
-      "ip": "45.90.150.50",
       "stake": "1195121736676080",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -15372,7 +15323,6 @@
     {
       "ownerAddress": "0:52ca31e0fc400ee3ef8eaced777f9df3d9b350221835cb0b7b7dad59271d214e",
       "signerIndex": 6048,
-      "ip": "206.42.104.145",
       "stake": "1213072510844060",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -15691,7 +15641,6 @@
     {
       "ownerAddress": "0:d777f310222bde011d642aacac8a176507e5e43d1fde302879c04a1d08af5396",
       "signerIndex": 6233,
-      "ip": "94.156.178.54",
       "stake": "1193077432838460",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -16010,7 +15959,6 @@
     {
       "ownerAddress": "0:f19c9e5c3eed016699b8357b84c7e31790d26aa7a02f3452fdfdc6429468d72b",
       "signerIndex": 6256,
-      "ip": "94.156.233.69",
       "stake": "1192315255974460",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -16329,7 +16277,6 @@
     {
       "ownerAddress": "0:b80c1f67c56acf80a19178087381d7030ab5a91e66d5052b73eda2cb7493863a",
       "signerIndex": 6278,
-      "ip": "94.156.178.77",
       "stake": "1191920091916980",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -16648,7 +16595,6 @@
     {
       "ownerAddress": "0:a70325b9dcafe35384a8d5ca9ad136019a41d7785381d1aa425db6255f712878",
       "signerIndex": 6462,
-      "ip": "94.156.233.39",
       "stake": "1361772124414120",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -16967,7 +16913,6 @@
     {
       "ownerAddress": "0:8c80137d48b5b5348e82c31df2cce209bce2b59eb22f71e27b1df13b42259927",
       "signerIndex": 6594,
-      "ip": "94.156.233.63",
       "stake": "1192246372210320",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -17286,7 +17231,6 @@
     {
       "ownerAddress": "0:01d116db25ecd3828ba8defd1f27bc5d0d34685b536569b2befb6b3248786c5c",
       "signerIndex": 7018,
-      "ip": "94.156.178.46",
       "stake": "1361345515741180",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -17605,7 +17549,6 @@
     {
       "ownerAddress": "0:d875df9cf418106d1407f60be189adc9e7c0e6db430ae945ffa37448ef46469f",
       "signerIndex": 7029,
-      "ip": "206.42.104.193",
       "stake": "1255599129657380",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -17924,7 +17867,6 @@
     {
       "ownerAddress": "0:70ee8d35ccea68f068d6749cda98ddd6bc5ceb3efa3e26333746f71163197c33",
       "signerIndex": 7071,
-      "ip": "45.90.150.186",
       "stake": "1362361872526460",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -18243,7 +18185,6 @@
     {
       "ownerAddress": "0:a1ba1c9acea1ef2d33b69c7f629bba196d22b6c1ad0b7ad806fbaf40db60d8a1",
       "signerIndex": 7112,
-      "ip": "94.156.178.61",
       "stake": "1361490865348800",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -18562,7 +18503,6 @@
     {
       "ownerAddress": "0:586b6037effcdb122ae8886777f38f93edeffb6d8757dc790742abd3849d95c8",
       "signerIndex": 7122,
-      "ip": "94.156.178.76",
       "stake": "1197397814739800",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -18881,7 +18821,6 @@
     {
       "ownerAddress": "0:9c6dac98c055450b497f865990b396240f0bc43c77a817b89b6cbdae703db1b5",
       "signerIndex": 7245,
-      "ip": "45.90.150.90",
       "stake": "1211727571028060",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -19200,7 +19139,6 @@
     {
       "ownerAddress": "0:d4bd3ad548237a7133bfac703f9d80555a1e8033fd686b6d82cdfaefcb3ce12c",
       "signerIndex": 7262,
-      "ip": "94.156.178.29",
       "stake": "1202827575150900",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -19519,7 +19457,6 @@
     {
       "ownerAddress": "0:8fa5470864882b3dd0d029b4c80774ed44b40a53248d5b0a354e29d8e1f7f4f2",
       "signerIndex": 7275,
-      "ip": "206.42.104.132",
       "stake": "1191964631942760",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -19838,7 +19775,6 @@
     {
       "ownerAddress": "0:0fe1d53c81c5e998a2f565e326a14a1b38cbaeff2cb8d832f925aebfd6a5e358",
       "signerIndex": 7351,
-      "ip": "94.156.233.45",
       "stake": "1316342708540740",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -20157,7 +20093,6 @@
     {
       "ownerAddress": "0:28cc5ac091ad6b106dc0f33f6f07633e44b4a1c69910c7bd240c6b7b2f723292",
       "signerIndex": 7529,
-      "ip": "94.156.233.64",
       "stake": "1364213210508120",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -20476,7 +20411,6 @@
     {
       "ownerAddress": "0:a34dc0d86351155b635ae6291fd352b03ab0f5002173364be82e606610f0df0d",
       "signerIndex": 7614,
-      "ip": "206.42.104.155",
       "stake": "1362510357044220",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -20795,7 +20729,6 @@
     {
       "ownerAddress": "0:912a152cfc8e99bee71b59b40a675300df61e6b00123d34a4b3cf4a6c09ef48b",
       "signerIndex": 8092,
-      "ip": "45.90.150.162",
       "stake": "1362339178279700",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -21114,7 +21047,6 @@
     {
       "ownerAddress": "0:dc276a49989250de605a73486a9268660ec2ca20df53d592a8f5b24ffb058034",
       "signerIndex": 8191,
-      "ip": "45.90.150.42",
       "stake": "1363954021696300",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -21433,7 +21365,6 @@
     {
       "ownerAddress": "0:6ecd4ff46969827acfea3216767b0c4ca070d70eaf899079e29aeb5ad4457f2f",
       "signerIndex": 8396,
-      "ip": "206.42.104.205",
       "stake": "1191256391455140",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -21752,7 +21683,6 @@
     {
       "ownerAddress": "0:1e28fe4db6ea53fb0b16ed59d569d60586b9ce466ac3e86a1f85d4511c7ae666",
       "signerIndex": 8559,
-      "ip": "45.90.150.218",
       "stake": "1211518814751680",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -22071,7 +22001,6 @@
     {
       "ownerAddress": "0:940bb770ecdc39706ddea0ddb9013292576fd2bf76cecd24506d24c168c8e834",
       "signerIndex": 8611,
-      "ip": "94.156.233.47",
       "stake": "1193257580233440",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -22390,7 +22319,6 @@
     {
       "ownerAddress": "0:7abb85f52411c0ee3b372996bc54526bcfb7fc232236101ad9b9248e6e046d77",
       "signerIndex": 8694,
-      "ip": "206.42.104.161",
       "stake": "1214990729428940",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -22709,7 +22637,6 @@
     {
       "ownerAddress": "0:0a7cef3d18f37f9039c519ed3c62a619f324f95de3dfb8305b2e9b4dd97b0e9f",
       "signerIndex": 8768,
-      "ip": "45.90.150.50",
       "stake": "1378535360026300",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -23028,7 +22955,6 @@
     {
       "ownerAddress": "0:ef6f32031e879c020cc7fa40fa2316e3397e042859f297f4cae5c53ce047c5b5",
       "signerIndex": 8975,
-      "ip": "94.156.178.56",
       "stake": "1364626666032280",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -23347,7 +23273,6 @@
     {
       "ownerAddress": "0:ecec87779b333891a1598b1be968e956c68197d5b318c9cc5e14fcfdfea876f9",
       "signerIndex": 9122,
-      "ip": "45.90.150.58",
       "stake": "1208700161584120",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -23666,7 +23591,6 @@
     {
       "ownerAddress": "0:724349e98134631f9c6e0174978414f6e7032d06bf9e737586517fab74f23e6e",
       "signerIndex": 9208,
-      "ip": "94.156.178.31",
       "stake": "1192693376885840",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -23985,7 +23909,6 @@
     {
       "ownerAddress": "0:a16f3d9630bf71d57c5e0e011a05fd758682a291f41c1fa4976284d432c5ce00",
       "signerIndex": 9288,
-      "ip": "94.156.178.65",
       "stake": "1193208123504460",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -24304,7 +24227,6 @@
     {
       "ownerAddress": "0:8a974da4bc4ffe9025f20e61c6b88fc28d8db5f8ab8afd7bbd76abe6ca62c99b",
       "signerIndex": 9396,
-      "ip": "45.90.150.42",
       "stake": "1321984224808260",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -24623,7 +24545,6 @@
     {
       "ownerAddress": "0:62d638ab2c9a19522a28418d8e0e5054425a2bbbd11f9cb5292efb31b3a561a2",
       "signerIndex": 9617,
-      "ip": "206.42.104.136",
       "stake": "1361671414951580",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -24942,7 +24863,6 @@
     {
       "ownerAddress": "0:65b34d6ec2fb57303166b84591aa68c5c6ab9c9ec83623a19347854814afdc7b",
       "signerIndex": 9639,
-      "ip": "206.42.104.165",
       "stake": "1361710025208280",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -25261,7 +25181,6 @@
     {
       "ownerAddress": "0:767723c7ecf23ad506ff41392f2a067dd49d2743857064f0d217d31642cba87f",
       "signerIndex": 9837,
-      "ip": "94.156.233.78",
       "stake": "1316427610088380",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -25580,7 +25499,6 @@
     {
       "ownerAddress": "0:53689b2676a64527a817f4489d1ef42ee49ff358f7f45010de7c80293aab884a",
       "signerIndex": 9983,
-      "ip": "45.90.150.66",
       "stake": "1210601603391540",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -25899,7 +25817,6 @@
     {
       "ownerAddress": "0:c7c892a6bb9a022f8418740311e59a0d5f803ac6ff14a647361467778a45bb11",
       "signerIndex": 10006,
-      "ip": "94.156.178.60",
       "stake": "1440797724583100",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -26218,7 +26135,6 @@
     {
       "ownerAddress": "0:3159ced29656eb57d51c3e9ae83e41342448d25f7c4756e9b15f6cb75e26b491",
       "signerIndex": 10026,
-      "ip": "31.44.1.23",
       "stake": "1354413581263920",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -26537,7 +26453,6 @@
     {
       "ownerAddress": "0:d3ed85a4a41fcb49ff80efa29d4d98d587c33969e91eef44aeb1b61ad2fc13f7",
       "signerIndex": 10165,
-      "ip": "94.156.178.47",
       "stake": "1192346968978660",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -26856,7 +26771,6 @@
     {
       "ownerAddress": "0:9154f4b578ddfa20b43727d479a68d5516f4761a3be15f488e4cb665d4b30831",
       "signerIndex": 10199,
-      "ip": "206.42.104.135",
       "stake": "1193537540222620",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -27175,7 +27089,6 @@
     {
       "ownerAddress": "0:16e4bb3531a5600bf654d89ed13c33f6e6b1b06a9210a6b367eccbec3c36cf21",
       "signerIndex": 10306,
-      "ip": "94.156.178.81",
       "stake": "1214336118972320",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -27494,7 +27407,6 @@
     {
       "ownerAddress": "0:ea99a92ca821a76323487dc9f0bc74db0b7c8d44d2d5ebc781cc258c5b86c053",
       "signerIndex": 10381,
-      "ip": "94.156.233.79",
       "stake": "1366758057094740",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -27813,7 +27725,6 @@
     {
       "ownerAddress": "0:8690e5be8e3a07ca16a044c6e8a05ed3a521c6370805c619833e1b4a2d719a87",
       "signerIndex": 10428,
-      "ip": "94.156.178.38",
       "stake": "1192703533056820",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -28132,7 +28043,6 @@
     {
       "ownerAddress": "0:b0e5cac236274a49ecdda9798e0f5ba960a140c2b02bbc8c364da62d96028075",
       "signerIndex": 10715,
-      "ip": "206.42.104.166",
       "stake": "1191301881362860",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -28451,7 +28361,6 @@
     {
       "ownerAddress": "0:857caed0c12afc6956c54783f3f6f35b205ac3c46d2526779e7fe42711d8a900",
       "signerIndex": 10778,
-      "ip": "94.156.233.70",
       "stake": "1193340142445880",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -28770,7 +28679,6 @@
     {
       "ownerAddress": "0:8a5a1110e1c873abcea15a8ab74ab08d5514cdca5e3b507179e4d0f5ad532193",
       "signerIndex": 10865,
-      "ip": "206.42.104.202",
       "stake": "1213765525219500",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -29089,7 +28997,6 @@
     {
       "ownerAddress": "0:42ef2a310cf3ccb324dcec53ac83c2779c41a2ed40e974263f18d35801094816",
       "signerIndex": 11068,
-      "ip": "206.42.104.208",
       "stake": "1192388324834900",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -29408,7 +29315,6 @@
     {
       "ownerAddress": "0:84c291869d3e59827743ce4dbcf5e67884bb9ee49e7ed7965846ee956423c404",
       "signerIndex": 11085,
-      "ip": "206.42.104.130",
       "stake": "1376248831215580",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -29727,7 +29633,6 @@
     {
       "ownerAddress": "0:7d8144b101e61131af953ced291f331ad985a1f4426c20365b0adbd5f0abf749",
       "signerIndex": 11238,
-      "ip": "45.90.150.58",
       "stake": "1362676946953780",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -30046,7 +29951,6 @@
     {
       "ownerAddress": "0:42cd967d88262e7a05cad3a73e45a8f7229009e83ebfa196d1b9f8cf6bb806d8",
       "signerIndex": 11665,
-      "ip": "206.42.104.158",
       "stake": "1361741767261360",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -30365,7 +30269,6 @@
     {
       "ownerAddress": "0:33bbb4238e91fc80660980788557f0a3df84640d7d77fc5971ffc69f818019d4",
       "signerIndex": 11717,
-      "ip": "206.42.104.171",
       "stake": "1194479770156720",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -30684,7 +30587,6 @@
     {
       "ownerAddress": "0:8eb5e43b04d173cc2b94b1b58ff3faa7a53513b83300d4bd93425f45f6d8129b",
       "signerIndex": 11905,
-      "ip": "94.156.178.39",
       "stake": "1361622276950220",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -31003,7 +30905,6 @@
     {
       "ownerAddress": "0:e230c63b143e35c8be782998a1219cf8691aea01092d09ee4de2b28514e52563",
       "signerIndex": 12177,
-      "ip": "206.42.104.144",
       "stake": "1194721814035140",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -31322,7 +31223,6 @@
     {
       "ownerAddress": "0:cc61c945e177ef71db57631c773d00e00899c7879a4663b5028068833ffa6ea4",
       "signerIndex": 12395,
-      "ip": "57.129.97.40",
       "stake": "640559633431806",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -31506,7 +31406,6 @@
     {
       "ownerAddress": "0:8af761cf55a3b3e57e658b9822a2d0aedb651a44ce98e04e7d62c79212017867",
       "signerIndex": 12461,
-      "ip": "31.44.1.15",
       "stake": "1260710122755080",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -31825,7 +31724,6 @@
     {
       "ownerAddress": "0:f9734bf55de573030097d12c6b95af6525dd1ee9e44a6419f78d183c3b79d394",
       "signerIndex": 12511,
-      "ip": "206.42.104.153",
       "stake": "1256848281162140",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -32144,7 +32042,6 @@
     {
       "ownerAddress": "0:d169ac30ca54358025c28a35795d14f974f2446fb49fdbe43f1611343ec9828d",
       "signerIndex": 12669,
-      "ip": "94.156.233.58",
       "stake": "1181269177259320",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -32463,7 +32360,6 @@
     {
       "ownerAddress": "0:39c43eae56f5663e47597dc156fb6807c1efb3eb38a6dd3d6c19646f0999e382",
       "signerIndex": 12751,
-      "ip": "94.156.178.30",
       "stake": "1362957059884900",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -32782,7 +32678,6 @@
     {
       "ownerAddress": "0:fd4ccc3a046757f47d45b57103305d12ad62018c6e89c2396f67e564ef5d4b8d",
       "signerIndex": 12801,
-      "ip": "31.44.1.12",
       "stake": "1213817504279300",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -33101,7 +32996,6 @@
     {
       "ownerAddress": "0:f62bf0777a64a098f9a010964c830ce43fb0d8fe617f2b70c1ae5d9e50fa8772",
       "signerIndex": 12819,
-      "ip": "45.90.150.170",
       "stake": "1284266728431940",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -33420,7 +33314,6 @@
     {
       "ownerAddress": "0:8a304f439da0e2d2c26a6c70422794ea5bb795794e0e87d2edfa975d5de2b61a",
       "signerIndex": 13004,
-      "ip": "206.42.104.182",
       "stake": "1179828333556920",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -33739,7 +33632,6 @@
     {
       "ownerAddress": "0:99d10e4b3d7adce5692e5dfba038bb7e91499241f4a14a281b08493442274872",
       "signerIndex": 13177,
-      "ip": "206.42.104.147",
       "stake": "1191334660478880",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -34058,7 +33950,6 @@
     {
       "ownerAddress": "0:f59963cfce1241518114a5bbc79b500617785b6657c5fbe5844c64d10fb3a9d8",
       "signerIndex": 13270,
-      "ip": "206.42.104.178",
       "stake": "1191086437045060",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -34377,7 +34268,6 @@
     {
       "ownerAddress": "0:40d83949bc26beb15e208c024c5d1601cf7ffe5a8feedbff2227de855df8ff3d",
       "signerIndex": 13424,
-      "ip": "206.42.104.142",
       "stake": "1192083548812200",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -34696,7 +34586,6 @@
     {
       "ownerAddress": "0:208a6c24a7df37b8ddb2596b0e167a12c384f8a3f4b1a83f8915929b1b63cbf5",
       "signerIndex": 13538,
-      "ip": "94.156.233.34",
       "stake": "1361662524581440",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -35015,7 +34904,6 @@
     {
       "ownerAddress": "0:80528afd820e86e962b7ff419d80120c8632b612302906966b6925ad9ce22ebe",
       "signerIndex": 13771,
-      "ip": "45.90.150.66",
       "stake": "1194571651459620",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -35334,7 +35222,6 @@
     {
       "ownerAddress": "0:a82bf3483a47fd71ac71319475850995155c382e956bfb4abe2d62ca10038b1d",
       "signerIndex": 13984,
-      "ip": "45.90.150.90",
       "stake": "1321982902060540",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -35653,7 +35540,6 @@
     {
       "ownerAddress": "0:5b1199439952d27a58e957ee9cd972a12c241c4476ccef1aa246320756e378dc",
       "signerIndex": 14008,
-      "ip": "206.42.104.195",
       "stake": "1190834959983540",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -35972,7 +35858,6 @@
     {
       "ownerAddress": "0:3747992516c59340258130b90794d9c5c9b46e7f06f5de6ef9df5f005c9ec91a",
       "signerIndex": 14396,
-      "ip": "206.42.104.186",
       "stake": "1273551856679820",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -36291,7 +36176,6 @@
     {
       "ownerAddress": "0:000236525276c09fbaf685a4054f8e7b46084fd439d481a97513d7c40eeffde2",
       "signerIndex": 14486,
-      "ip": "94.156.178.50",
       "stake": "1196689785722460",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -36610,7 +36494,6 @@
     {
       "ownerAddress": "0:bfae8e12cf1add388df8998f6862b6fff7dbd68927d958a08eaed2b2c6bc881a",
       "signerIndex": 14535,
-      "ip": "94.156.178.48",
       "stake": "1179791685174980",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -36929,7 +36812,6 @@
     {
       "ownerAddress": "0:603631c294f8f07570eef5589a2515e16a0dd96eb3b047d857d6ea332a7c052e",
       "signerIndex": 14635,
-      "ip": "94.156.178.72",
       "stake": "1361443103913760",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -37248,7 +37130,6 @@
     {
       "ownerAddress": "0:d0a57bfa74889e687ac5d23e33e0ca3b69f0148e19fdfdd9277a2f62215e4e54",
       "signerIndex": 14887,
-      "ip": "94.156.178.37",
       "stake": "1192962970819800",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -37567,7 +37448,6 @@
     {
       "ownerAddress": "0:10d46b6600d61f22761a8c21df2d532ef9a3020353389b6a93d2f15ee17879ad",
       "signerIndex": 14913,
-      "ip": "206.42.104.148",
       "stake": "1195709481494120",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -37886,7 +37766,6 @@
     {
       "ownerAddress": "0:051ec3932eda3973ddce09e096c512dc232a97bc6aaaf158ce49511c8598a348",
       "signerIndex": 14958,
-      "ip": "31.44.1.13",
       "stake": "1261736361612060",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -38205,7 +38084,6 @@
     {
       "ownerAddress": "0:3158134641089d9b3a180b7c8f48795ed75c514c59b868130eaca08eebbb6f28",
       "signerIndex": 14975,
-      "ip": "94.156.178.49",
       "stake": "1360294694467440",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -38524,7 +38402,6 @@
     {
       "ownerAddress": "0:836be14bc5250f8bb41124347ba2a06e30218f7af8a1c3940b93dd173888b47f",
       "signerIndex": 15024,
-      "ip": "45.90.150.178",
       "stake": "1362028808404760",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -38843,7 +38720,6 @@
     {
       "ownerAddress": "0:91e8fbf38cb813ecf683150afbcd452537c3e25865fa6d35086eddf2fe5d4d1a",
       "signerIndex": 15039,
-      "ip": "94.156.178.33",
       "stake": "1361205649378800",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -39162,7 +39038,6 @@
     {
       "ownerAddress": "0:c3220b6efe3e7ded5f7fd94c30375d33f1c94f3555d1253bec229cc86520662f",
       "signerIndex": 15298,
-      "ip": "45.90.150.90",
       "stake": "1348834267794780",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -39481,7 +39356,6 @@
     {
       "ownerAddress": "0:530a69361cee84e42ced0d1e33c5eb00dc901d9acc4ad0872b0eb5d94fa1b5d6",
       "signerIndex": 15314,
-      "ip": "94.156.233.65",
       "stake": "1193697156944620",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -39800,7 +39674,6 @@
     {
       "ownerAddress": "0:7b03e0a335311e782efe3feee1f395cf588870882bfe43eb1eae006650ba4f85",
       "signerIndex": 15351,
-      "ip": "206.42.104.174",
       "stake": "1361649682682340",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -40119,7 +39992,6 @@
     {
       "ownerAddress": "0:ded537dddad7c8cd2ddeb652508eed8244ced6343fcee73de8e24c912b435b16",
       "signerIndex": 15374,
-      "ip": "94.156.233.44",
       "stake": "1336431585595420",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -40438,7 +40310,6 @@
     {
       "ownerAddress": "0:6c647b2df78b3d1480a867bf972f9891612ad46b92c7e285a8806f1b6a140a69",
       "signerIndex": 15505,
-      "ip": "94.156.233.60",
       "stake": "1283310044021340",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -40757,7 +40628,6 @@
     {
       "ownerAddress": "0:35052673821bcc0ed3f2f49f95a857710d927a91a34946b5748a65ce5fec264a",
       "signerIndex": 15538,
-      "ip": "",
       "stake": "1305199088131140",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -41070,7 +40940,6 @@
     {
       "ownerAddress": "0:4deafebb3eeecd86dd7b2b7e9f9988273f3807b7e581a8a1b5e6101213c52f13",
       "signerIndex": 15564,
-      "ip": "45.90.150.74",
       "stake": "1207533325347260",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -41389,7 +41258,6 @@
     {
       "ownerAddress": "0:d430b55b1322b5ad864a3788509a9b766d97202515619e31efc5e5966ff76520",
       "signerIndex": 15669,
-      "ip": "206.42.104.150",
       "stake": "1192315635841460",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -41708,7 +41576,6 @@
     {
       "ownerAddress": "0:6b850b0abee2a6e5f406ae67d53cf2f639490638f80dff0a652fb82c8f299c5e",
       "signerIndex": 15988,
-      "ip": "45.90.150.178",
       "stake": "1361564941601320",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -42027,7 +41894,6 @@
     {
       "ownerAddress": "0:d021735e7e8a1d1eab2b3b53a9d66135638349f53c0f5fb067d6329940ef8b77",
       "signerIndex": 16422,
-      "ip": "94.156.233.46",
       "stake": "1361245648350040",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -42346,7 +42212,6 @@
     {
       "ownerAddress": "0:5eec0a6ff30cecc5f8563da8a50f941ebfbe057a93896049702414c31dd57006",
       "signerIndex": 16447,
-      "ip": "206.42.104.149",
       "stake": "1191017502133580",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -42665,7 +42530,6 @@
     {
       "ownerAddress": "0:d772f58c54440c42501d919ef73afcb43e0f54be8fd88ece8cd88db67a5865f4",
       "signerIndex": 16510,
-      "ip": "31.44.1.17",
       "stake": "1203129561584320",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -42984,7 +42848,6 @@
     {
       "ownerAddress": "0:1b999dfcee82bf1f1fae95258627422cf6f38b9d627a353f126965df479d27c9",
       "signerIndex": 16704,
-      "ip": "94.156.233.42",
       "stake": "1316373717328220",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -43303,7 +43166,6 @@
     {
       "ownerAddress": "0:b76293e00feb7a29ef2eb679c1f666fb0406dafbd6ff5731a759dc454e2fc664",
       "signerIndex": 16725,
-      "ip": "94.156.233.49",
       "stake": "1193253350441000",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -43622,7 +43484,6 @@
     {
       "ownerAddress": "0:7a363b60885a52b805455de394ee671bc1a8959d1c5ac98b51b1fcf909de1b94",
       "signerIndex": 16726,
-      "ip": "94.156.233.56",
       "stake": "1192480142373800",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -43941,7 +43802,6 @@
     {
       "ownerAddress": "0:29ba3a915e0d7f38aeee5e125eb3fad854bbf1d70da1ff28d2fee25ba69d19a4",
       "signerIndex": 16857,
-      "ip": "94.156.233.68",
       "stake": "1194540365401660",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -44260,7 +44120,6 @@
     {
       "ownerAddress": "0:1dfc1c78dd49d0a3ec0cc9bc887d765dde810ca55291b9e735f3317ac0fbfe1a",
       "signerIndex": 16949,
-      "ip": "94.156.178.42",
       "stake": "1192139717963160",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -44579,7 +44438,6 @@
     {
       "ownerAddress": "0:6013af322a2ec8edfa4a6a49e2473d076c05ea0a8cec99519277a1aad694fbb7",
       "signerIndex": 17056,
-      "ip": "45.90.150.34",
       "stake": "1262276908856620",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -44898,7 +44756,6 @@
     {
       "ownerAddress": "0:45a090d82506a864f96287164d3efc4ccb3e69f0fabbf3b7c5475a82ab87bf27",
       "signerIndex": 17188,
-      "ip": "94.156.178.34",
       "stake": "1361364461461960",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -45217,7 +45074,6 @@
     {
       "ownerAddress": "0:ff0e03891282fed4aad30b1b522e4b6f0efc6fda970bab2940e18425ed1baed6",
       "signerIndex": 17450,
-      "ip": "45.90.150.58",
       "stake": "1255405066921840",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -45536,7 +45392,6 @@
     {
       "ownerAddress": "0:807facf9b11f3e90639e1ad13ae5f5dc929f399acbd5f77118ad6a759744b1cb",
       "signerIndex": 17621,
-      "ip": "94.156.233.52",
       "stake": "1199304060270820",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -45855,7 +45710,6 @@
     {
       "ownerAddress": "0:2981f1077bf93beeb2241e884dd48b9118a7b21c592c108b115348c3f981b8b5",
       "signerIndex": 17919,
-      "ip": "31.44.1.19",
       "stake": "1280910929897300",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -46174,7 +46028,6 @@
     {
       "ownerAddress": "0:6eacf2857ac6e1557f0291b61669118eba1fa3f45be40a76ce4e8df9b68b76b2",
       "signerIndex": 18934,
-      "ip": "94.156.233.37",
       "stake": "1192490450246360",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -46493,7 +46346,6 @@
     {
       "ownerAddress": "0:0f88f21be9c3fb38d4dcfdf4b450fde4632533c5ff6231b61d63c3590d10f5a4",
       "signerIndex": 18940,
-      "ip": "94.156.178.79",
       "stake": "1361547422420880",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -46812,7 +46664,6 @@
     {
       "ownerAddress": "0:05df46cd80b8ffe2ee51635f1330f667e0b0dabb9b65a34cdb24ce313b125a4a",
       "signerIndex": 19100,
-      "ip": "94.156.178.28",
       "stake": "1344170611606980",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -47131,7 +46982,6 @@
     {
       "ownerAddress": "0:fda672d2ab1d7d1ebd19415583b87dbf5f908ef175e035f39d7a0106c5033fb9",
       "signerIndex": 19276,
-      "ip": "94.156.178.82",
       "stake": "455008383664505",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -47285,7 +47135,6 @@
     {
       "ownerAddress": "0:1588689c5d96cc7c7616bd8f1aa4e0220071abcb57ad4b1fb4265ee1242d4ec2",
       "signerIndex": 19339,
-      "ip": "46.4.10.213",
       "stake": "1305711228280338",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -47589,7 +47438,6 @@
     {
       "ownerAddress": "0:5d2529a856b86c387c2838b6cebcbf056db8a2f3ff5d408b5a60b412a96ca6c8",
       "signerIndex": 19663,
-      "ip": "45.90.150.170",
       "stake": "1204081366847220",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -47908,7 +47756,6 @@
     {
       "ownerAddress": "0:816deb575b570df10e1b283ca4764feb411424995696c606a4e4b1746d453d3f",
       "signerIndex": 20320,
-      "ip": "206.42.104.183",
       "stake": "1183107529646060",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -48227,7 +48074,6 @@
     {
       "ownerAddress": "0:3cdb0c500225c4389820f55aef35c3316ae645a24ff40bed558e29d99e5e9c31",
       "signerIndex": 20428,
-      "ip": "94.156.178.57",
       "stake": "1202657325945840",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -48546,7 +48392,6 @@
     {
       "ownerAddress": "0:e90f6ea2cffadc6c5cd78db1a71fe96f3910b52307f04b6b4d6d5e128252ece5",
       "signerIndex": 20611,
-      "ip": "45.90.150.202",
       "stake": "1192345547508260",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -48865,7 +48710,6 @@
     {
       "ownerAddress": "0:7620f786c9d80639e8a27186cec709db8570755e13bc53eda41e090a39917dea",
       "signerIndex": 20694,
-      "ip": "206.42.104.156",
       "stake": "1191164403567400",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -49184,7 +49028,6 @@
     {
       "ownerAddress": "0:02e5ed91016a6b1dc0aa39f6780d074c3f28509326de71de495379d82d5a753b",
       "signerIndex": 20796,
-      "ip": "206.42.104.179",
       "stake": "1191114734543720",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -49503,7 +49346,6 @@
     {
       "ownerAddress": "0:a11bb52cd8eb46ccb8d2b510979f58f207fb3bf573ae7945a351b4c84f7f9bb9",
       "signerIndex": 20937,
-      "ip": "206.42.104.154",
       "stake": "1361941763886820",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -49822,7 +49664,6 @@
     {
       "ownerAddress": "0:3c1fa01d6e06b338fa375247e5621af69ba39c6cad527161d2240205da9fbacc",
       "signerIndex": 21261,
-      "ip": "94.156.178.66",
       "stake": "1184119450251320",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -50141,7 +49982,6 @@
     {
       "ownerAddress": "0:b8046b9bf6c4be16afd4e4238bcfa155b7baf37d46db58d7777422ed7113b3f7",
       "signerIndex": 21316,
-      "ip": "94.156.233.74",
       "stake": "1196007544858560",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -50460,7 +50300,6 @@
     {
       "ownerAddress": "0:5ad462b0461d30595d6783732eadf82cfe6ccf26ae720596ed172784c29c0aa7",
       "signerIndex": 21361,
-      "ip": "45.90.150.74",
       "stake": "954795267313153",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -50734,7 +50573,6 @@
     {
       "ownerAddress": "0:5020ef544d71bbe68a9a25308f135ae1fe23e78e6ee9523dc6a091c44d5708a1",
       "signerIndex": 21401,
-      "ip": "31.44.1.20",
       "stake": "1238455119799260",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -51053,7 +50891,6 @@
     {
       "ownerAddress": "0:a4b63516e80ef7108711699594281cae1867a0baa675167af20fefa70470e78e",
       "signerIndex": 21559,
-      "ip": "45.90.150.186",
       "stake": "1193948552020940",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -51372,7 +51209,6 @@
     {
       "ownerAddress": "0:3db40895e2ce599e425f810e768e7ff005526fa40dde248e124d147904e6cc2c",
       "signerIndex": 21610,
-      "ip": "206.42.104.137",
       "stake": "1241735066845640",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -51691,7 +51527,6 @@
     {
       "ownerAddress": "0:ed1fec3bb4de08564a3713c7374684867d49283ecab9ecb6235d12af42cea6cf",
       "signerIndex": 21863,
-      "ip": "94.156.178.45",
       "stake": "1179180244412240",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -52010,7 +51845,6 @@
     {
       "ownerAddress": "0:b67509147eba26a536a1e5bab9a0364ab3445aca7c8610935b69c200982893ef",
       "signerIndex": 22030,
-      "ip": "45.90.150.162",
       "stake": "1362649005162320",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -52329,7 +52163,6 @@
     {
       "ownerAddress": "0:a0937a07407dbe64eac2021fc3f1f7f36e340682651c45a9b28659c63a64d3e3",
       "signerIndex": 22324,
-      "ip": "206.42.104.196",
       "stake": "1191196354855900",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -52648,7 +52481,6 @@
     {
       "ownerAddress": "0:8bfff8d7a62dd7a3f3bd462f6c664f5b16150666a901033d2c2c468abf594a48",
       "signerIndex": 22692,
-      "ip": "94.156.233.41",
       "stake": "1329053957785200",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -52967,7 +52799,6 @@
     {
       "ownerAddress": "0:f21dd5ff4ea2824c1c1e93f11c0a5fe90cb9bd29853d8921f66a954531768160",
       "signerIndex": 22732,
-      "ip": "94.156.178.78",
       "stake": "1197049153265940",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -53286,7 +53117,6 @@
     {
       "ownerAddress": "0:1118c3e3a72367fe14d20fe3b9a3d4139a42e011f678cdd30a2a7e7121cd826b",
       "signerIndex": 22782,
-      "ip": "45.90.150.34",
       "stake": "1220894829679740",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -53605,7 +53435,6 @@
     {
       "ownerAddress": "0:1033ea894040adba26f13680690faf3e05f74987610e4f5d50b22142333a8787",
       "signerIndex": 22909,
-      "ip": "206.42.104.169",
       "stake": "1241534571135460",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -53924,7 +53753,6 @@
     {
       "ownerAddress": "0:6cc29b2493ef91a2dc7a0078844a9c89d71283f5828f949b828825fb68bd5199",
       "signerIndex": 22960,
-      "ip": "45.90.150.66",
       "stake": "1340123742299820",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -54243,7 +54071,6 @@
     {
       "ownerAddress": "0:5aa388b62f2a96b9494689010160b6c803ff7fd56f5e8aa0352d21aef885af4c",
       "signerIndex": 23010,
-      "ip": "94.156.233.36",
       "stake": "1361422761722320",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -54562,7 +54389,6 @@
     {
       "ownerAddress": "0:d6d5bb1b9f8a3a5ec3fd55c95f890e64344312d2a84a8bc2575bc13ac461a648",
       "signerIndex": 23110,
-      "ip": "206.42.104.204",
       "stake": "1191075282058440",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -54881,7 +54707,6 @@
     {
       "ownerAddress": "0:bc6e2d6bbc2e4bb4290c8a077d5b5db90dd487713533a4df647bab9e5080e58a",
       "signerIndex": 23387,
-      "ip": "94.156.233.81",
       "stake": "1192377271676480",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -55200,7 +55025,6 @@
     {
       "ownerAddress": "0:d8c36d414fbf721f903a1ba43f471619bbcc3943206c2d72d0e29bf025775eed",
       "signerIndex": 23449,
-      "ip": "206.42.104.143",
       "stake": "1192297847631480",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -55519,7 +55343,6 @@
     {
       "ownerAddress": "0:e5bec6e030f4358ae26a7c7db07a5e54eaab55c60b4a89e1239b0a600c2a0570",
       "signerIndex": 23643,
-      "ip": "94.156.233.40",
       "stake": "1223534825003240",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -55838,7 +55661,6 @@
     {
       "ownerAddress": "0:5c1549f083a08c579d36ecfdf46987df0f6f0eb858245c33bb6020cdc562b51f",
       "signerIndex": 23651,
-      "ip": "206.42.104.138",
       "stake": "1191363403667000",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -56157,7 +55979,6 @@
     {
       "ownerAddress": "0:7dcde4e61bb8247a82a6a11fecdcf0d8cc08130e20c683f7e83131fc48291445",
       "signerIndex": 23734,
-      "ip": "45.90.150.178",
       "stake": "1284211562810560",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -56476,7 +56297,6 @@
     {
       "ownerAddress": "0:d84bdfa753950541bafac1e8137bba14fa6aa55409d9ee33252d442b4e3e682a",
       "signerIndex": 23828,
-      "ip": "31.44.1.18",
       "stake": "1265034316061900",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -56795,7 +56615,6 @@
     {
       "ownerAddress": "0:5543d5b83594cc141112f0fad721ab71ae0fa3f8381df797f7b54b809127225d",
       "signerIndex": 23947,
-      "ip": "206.42.104.201",
       "stake": "1194536233638180",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -57114,7 +56933,6 @@
     {
       "ownerAddress": "0:e9668bb4ae500e3f47347c5e67f3d15ec8e81ef9b8494c562bedc2e393d96e27",
       "signerIndex": 24025,
-      "ip": "45.90.150.90",
       "stake": "1189419647742960",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -57433,7 +57251,6 @@
     {
       "ownerAddress": "0:dc67ae73b647b399bb8293ef1b5c9bc9577baf036ad7ec5c49505efbae74ac67",
       "signerIndex": 24051,
-      "ip": "206.42.104.160",
       "stake": "1191378813960420",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -57752,7 +57569,6 @@
     {
       "ownerAddress": "0:182554198bdb70d32ada6709ed1ac751589d809f6f40be9c89051e15a1497118",
       "signerIndex": 24071,
-      "ip": "206.42.104.173",
       "stake": "1195532166349060",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -58071,7 +57887,6 @@
     {
       "ownerAddress": "0:a1d6039594e301f094cc9923d2d8816cf2f3efd484c11ae879cfbac944530691",
       "signerIndex": 24208,
-      "ip": "45.90.150.202",
       "stake": "1193026886414060",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -58390,7 +58205,6 @@
     {
       "ownerAddress": "0:04cc6a4e5aaa6020ca3a82cb1adcd7f0541ccbe07d07ba2025fb70c1131444b4",
       "signerIndex": 24304,
-      "ip": "206.42.104.139",
       "stake": "1195099998269080",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -58709,7 +58523,6 @@
     {
       "ownerAddress": "0:cca6094068a943052ffe73d4505a5e40f911f83e781a87f8a75dcc54179c0d6d",
       "signerIndex": 24511,
-      "ip": "94.156.233.66",
       "stake": "1192104222400140",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -59028,7 +58841,6 @@
     {
       "ownerAddress": "0:ac49bfacdd17a0542c5c216d8cd8d9a5ed6d4584e8f86a15392f6fd2ad425ce2",
       "signerIndex": 24821,
-      "ip": "94.156.233.54",
       "stake": "1229969347726720",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -59347,7 +59159,6 @@
     {
       "ownerAddress": "0:37cffaaf9ae4ca503b5a298cd7b9eaf7bad48b41c8f850c194ee5b7abe0e6116",
       "signerIndex": 24843,
-      "ip": "94.156.178.62",
       "stake": "1361467472729680",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -59666,7 +59477,6 @@
     {
       "ownerAddress": "0:aed31e8755a1e5a12d527616dc3a266f57556270c3f4e2474b455ac5c438d716",
       "signerIndex": 24868,
-      "ip": "94.156.233.31",
       "stake": "1192834662908420",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -59985,7 +59795,6 @@
     {
       "ownerAddress": "0:f7814a436efca9082a712af7c8f296f64f4ae3be72dce35be88f028426336d10",
       "signerIndex": 25016,
-      "ip": "94.156.233.38",
       "stake": "1346672364460800",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -60304,7 +60113,6 @@
     {
       "ownerAddress": "0:ca37730f29b3285b8288cc72802692cefe88fdcdb8120e4ed7e97f84447e200c",
       "signerIndex": 25085,
-      "ip": "31.44.1.16",
       "stake": "1325467068455920",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -60623,7 +60431,6 @@
     {
       "ownerAddress": "0:cc5e3e6f1d4aec337fa1f4f045202a2535a62eae8973607738501e53acb62913",
       "signerIndex": 25115,
-      "ip": "94.156.233.62",
       "stake": "1361572244935520",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -60942,7 +60749,6 @@
     {
       "ownerAddress": "0:e7355de56e3917f377a91b5263758cfd79a52a4f61795188215534a223c16e99",
       "signerIndex": 25144,
-      "ip": "94.156.178.55",
       "stake": "1363092153993680",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -61261,7 +61067,6 @@
     {
       "ownerAddress": "0:d4c874c0f54abbcedb7c89f5832e346e09a1714573fe4667d2fff7e49c70f1af",
       "signerIndex": 25348,
-      "ip": "206.42.104.146",
       "stake": "1191358567061740",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -61580,7 +61385,6 @@
     {
       "ownerAddress": "0:1030c878247c3fa8afb9b9169c89fd439c625432efc76fbece10ccf8aa131ced",
       "signerIndex": 25451,
-      "ip": "94.156.233.57",
       "stake": "1361299679783540",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -61899,7 +61703,6 @@
     {
       "ownerAddress": "0:2d396fe263c0fff5c9b0de2ff568c4c0aca9e1d1b4f3f57131273a098b783168",
       "signerIndex": 25628,
-      "ip": "45.90.150.82",
       "stake": "1194483928420960",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -62218,7 +62021,6 @@
     {
       "ownerAddress": "0:63c06f46a37ec93e96d4f478c08792c34238cc8dc05f53b2d0aaf511c8e4db67",
       "signerIndex": 25719,
-      "ip": "45.90.150.218",
       "stake": "1192208129409480",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -62537,7 +62339,6 @@
     {
       "ownerAddress": "0:7b85afc3bca29b619d685cb9f2b9fb4f6ac29f063b11d64c6291c08c9e108daf",
       "signerIndex": 25792,
-      "ip": "206.42.104.134",
       "stake": "1195617536422520",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -62856,7 +62657,6 @@
     {
       "ownerAddress": "0:736813f3a34d2cb3b9538572ac8f78b334a51ad7e0373deac4b376dbe4eaae65",
       "signerIndex": 25886,
-      "ip": "94.156.178.71",
       "stake": "1361598456644180",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -63175,7 +62975,6 @@
     {
       "ownerAddress": "0:84db8ea5b9331e17adf710acf6e14f2765311664aa9c7bf7fc1cc9b4147b4bbd",
       "signerIndex": 26091,
-      "ip": "206.42.104.200",
       "stake": "1191219901441720",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -63494,7 +63293,6 @@
     {
       "ownerAddress": "0:488e8b59da8faa48f52027282ff436defaabc99c101bc0df7458d5d76e188854",
       "signerIndex": 26353,
-      "ip": "45.90.150.34",
       "stake": "1321550352978620",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -63813,7 +63611,6 @@
     {
       "ownerAddress": "0:e82cc9dca247ce5581573c8a0f73f9720a8b11a3a5e231f5e63afb3247a95f60",
       "signerIndex": 26489,
-      "ip": "45.90.150.50",
       "stake": "1201585773303360",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -64132,7 +63929,6 @@
     {
       "ownerAddress": "0:44e536fcd7fe3217628bd567fc8cb6916b11bb3a600291b60f784061a8d26312",
       "signerIndex": 26512,
-      "ip": "206.42.104.164",
       "stake": "1283706860233980",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -64451,7 +64247,6 @@
     {
       "ownerAddress": "0:13614907b8034f70bce9e329c178f5d3faf07f92f1f1b97293662fe58ad2223f",
       "signerIndex": 26676,
-      "ip": "94.156.178.80",
       "stake": "1194229088152240",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -64770,7 +64565,6 @@
     {
       "ownerAddress": "0:5dd92eb3f03b8f8cdf5e7c7fc7f2b24bc4129fd44a55b8fda3aec565fc2533f3",
       "signerIndex": 26719,
-      "ip": "31.44.1.21",
       "stake": "1228469143170280",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -65089,7 +64883,6 @@
     {
       "ownerAddress": "0:3987bf19300488e6c5824800bb529d0d82c1d2ffed663061b76a7361c02ccbbd",
       "signerIndex": 26921,
-      "ip": "94.156.233.48",
       "stake": "1197640625179420",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -65408,7 +65201,6 @@
     {
       "ownerAddress": "0:f0533ac54442d1ef8298c2d80ac6d597f1473ccd4fb6520c293701abd8f269bc",
       "signerIndex": 26944,
-      "ip": "45.90.150.58",
       "stake": "1197678285890700",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -65727,7 +65519,6 @@
     {
       "ownerAddress": "0:5e872ba2bd31d4f4c4d20b024a1a423de40ea9b57d420535fdcc8bada0174203",
       "signerIndex": 27137,
-      "ip": "45.90.150.178",
       "stake": "1361512377541400",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -66046,7 +65837,6 @@
     {
       "ownerAddress": "0:a231e51170ebda169ff3069fb063f51d0fc98a3e4786f9fbf2a55fcf90de9a18",
       "signerIndex": 27237,
-      "ip": "45.90.150.74",
       "stake": "1192475738077040",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -66365,7 +66155,6 @@
     {
       "ownerAddress": "0:09d9d2dc0ede09596e7c0d127dd0aa789ef951ac431a2516031b232baa111678",
       "signerIndex": 27267,
-      "ip": "206.42.104.151",
       "stake": "1192074936352120",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -66684,7 +66473,6 @@
     {
       "ownerAddress": "0:83e34a0dfd2af53aabdf2ece5e0c249083b73eadffa812a1c8aaaad911ebfad2",
       "signerIndex": 27369,
-      "ip": "206.42.104.207",
       "stake": "1194461000077900",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -67003,7 +66791,6 @@
     {
       "ownerAddress": "0:db91196d515ed4d3f04bf4878ab7d99cb7cf81d769c18aef2ac0342fe685fa50",
       "signerIndex": 27433,
-      "ip": "45.90.150.210",
       "stake": "1228014102296620",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -67322,7 +67109,6 @@
     {
       "ownerAddress": "0:9793ef94e42d39b8ac62075d5fb5ea9b033f8510a2897f291dce3fa72d8ee21a",
       "signerIndex": 27452,
-      "ip": "206.42.104.157",
       "stake": "1197809048556200",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -67641,7 +67427,6 @@
     {
       "ownerAddress": "0:7bb24c6739adcd88335213fcc3f58920115ecf2cd95362ca501529adf61eb932",
       "signerIndex": 27544,
-      "ip": "94.156.233.71",
       "stake": "1361482210328680",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -67960,7 +67745,6 @@
     {
       "ownerAddress": "0:c7aa9e0a2ad3f384f5f282e9dd0566bece53288a6a8d0ede5bda9843675f2ba7",
       "signerIndex": 27644,
-      "ip": "45.90.150.82",
       "stake": "1336074830775780",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -68279,7 +68063,6 @@
     {
       "ownerAddress": "0:d4c0437b9a6e9ddf5f55d994f06ff300567c580ca6e561c4d57cfbbcd2c98dd7",
       "signerIndex": 27705,
-      "ip": "94.156.178.69",
       "stake": "1193062268089660",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -68598,7 +68381,6 @@
     {
       "ownerAddress": "0:e8e5f8cfd56fb551ed9a6ba6e740f3f72b0268ba7ea1aeff5c38e0173fa96208",
       "signerIndex": 27798,
-      "ip": "94.156.178.58",
       "stake": "1329242327203140",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -68917,7 +68699,6 @@
     {
       "ownerAddress": "0:a4e6e841380d8efcf27a9bf88662b776700b151980bcea8db18c622cb428e1f0",
       "signerIndex": 27841,
-      "ip": "206.42.104.199",
       "stake": "1192519231150220",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -69236,7 +69017,6 @@
     {
       "ownerAddress": "0:098196387a1564debadffdf7e0d7745d1aae365037b5d630e28f2816a8133d99",
       "signerIndex": 28098,
-      "ip": "94.156.233.53",
       "stake": "1193389950029540",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -69555,7 +69335,6 @@
     {
       "ownerAddress": "0:46d51f8cd2a1d1e97d6f7494d51fec2b23b993e45c14a0be2de1d74354d1e570",
       "signerIndex": 28284,
-      "ip": "45.90.150.210",
       "stake": "1194113814300720",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -69874,7 +69653,6 @@
     {
       "ownerAddress": "0:b8b39a8f496de354eb74ca14843b7145e072b3f77eeaf135896d6f2889392f21",
       "signerIndex": 28386,
-      "ip": "94.156.233.77",
       "stake": "1192387442873780",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -70193,7 +69971,6 @@
     {
       "ownerAddress": "0:d6a6b56f88126c3b18b92bf8ef7f6d9f68ab6bd35f1920139c20fa409626ba05",
       "signerIndex": 28571,
-      "ip": "45.90.150.202",
       "stake": "1192826057168160",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -70512,7 +70289,6 @@
     {
       "ownerAddress": "0:2dfdd477687dca7fb92db2e64a282656d4ae98afe1a4dd87a8e424cf050ee04c",
       "signerIndex": 28710,
-      "ip": "94.156.233.72",
       "stake": "1362108200556600",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -70831,7 +70607,6 @@
     {
       "ownerAddress": "0:323ea5c0ebd2b04c358f37aa8425697e0148bef15761a40b8f829411a896e2f4",
       "signerIndex": 29219,
-      "ip": "206.42.104.189",
       "stake": "1272739901401380",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -71150,7 +70925,6 @@
     {
       "ownerAddress": "0:724efc22a74eee1ac5513b8f689b6f30fd2b8a15d1730bb0cd9704c95820896c",
       "signerIndex": 29344,
-      "ip": "206.42.104.184",
       "stake": "1182892798544280",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -71469,7 +71243,6 @@
     {
       "ownerAddress": "0:a4cacdac5e1e80dd65a5e7e3896ffed045a6a4c15d6c398adee9c84c2024f2a6",
       "signerIndex": 29408,
-      "ip": "31.44.1.24",
       "stake": "942543903221070",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -71713,7 +71486,6 @@
     {
       "ownerAddress": "0:85eee8fe56e3f77470a982870de2dad0014aa355aad4a052c17468df945c31d3",
       "signerIndex": 29720,
-      "ip": "31.44.1.22",
       "stake": "1230228570996660",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -72032,7 +71804,6 @@
     {
       "ownerAddress": "0:e9243b8e54fa728bda8d0ae9c9507cc3fb9c344d67fdbb94bb2d9164a1aae305",
       "signerIndex": 29727,
-      "ip": "94.156.233.29",
       "stake": "1360142653376720",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -72351,7 +72122,6 @@
     {
       "ownerAddress": "0:9c1c34cb7e4934dbcfd589ab26a4cc2eafe2ea5a49c1afa703dbb7a09a61db21",
       "signerIndex": 29880,
-      "ip": "206.42.104.170",
       "stake": "1191925993741700",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -72670,7 +72440,6 @@
     {
       "ownerAddress": "0:684bf4f16657d029b97f84ddc6d89654aea3767d3b17e9f092e44c4859860cb0",
       "signerIndex": 29914,
-      "ip": "45.90.150.210",
       "stake": "1192478823763140",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -72989,7 +72758,6 @@
     {
       "ownerAddress": "0:a828c414063945811281023587c2fac5bdd7ce34bbaab4fbd2a818870e374b04",
       "signerIndex": 29993,
-      "ip": "94.156.233.30",
       "stake": "1349024623377360",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -73308,7 +73076,6 @@
     {
       "ownerAddress": "0:85ff3e08e8a69db4d99d6e1987ffd71cb11904a963349b5fcac5f05721621d5c",
       "signerIndex": 30078,
-      "ip": "206.42.104.141",
       "stake": "1193794264614720",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -73627,7 +73394,6 @@
     {
       "ownerAddress": "0:de4378948b8791408fd07bcca71b11705e1e5eee78f75e03583082a542291559",
       "signerIndex": 30123,
-      "ip": "45.90.150.202",
       "stake": "1192946372626780",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -73946,7 +73712,6 @@
     {
       "ownerAddress": "0:84c8bf0d1337832b29497f45271932d685bb058e8fea3070a472216116f42808",
       "signerIndex": 30281,
-      "ip": "31.44.1.11",
       "stake": "1323479131353040",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -74265,7 +74030,6 @@
     {
       "ownerAddress": "0:519564bf4212790378be8388a6647c8ca0799b36a1ad458ddde2994271bffb6a",
       "signerIndex": 30706,
-      "ip": "45.90.150.66",
       "stake": "1195165838163900",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -74584,7 +74348,6 @@
     {
       "ownerAddress": "0:77c83910e2f90c9c218cfc6d3277cc923edaf7a0ec40a7fca99dbba0d28042f1",
       "signerIndex": 30711,
-      "ip": "206.42.104.197",
       "stake": "1191305813605020",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -74903,7 +74666,6 @@
     {
       "ownerAddress": "0:9e89dcf9dd4298595471c0e2f66d7c0022bacc966e2358c5c9946a4311da38f8",
       "signerIndex": 30805,
-      "ip": "94.156.233.33",
       "stake": "1361483410259900",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -75222,7 +74984,6 @@
     {
       "ownerAddress": "0:bb89cf85f1a5c8521f879e9bad83257db4c9036ce26951c0ae1aa930b6dd1486",
       "signerIndex": 31065,
-      "ip": "206.42.104.177",
       "stake": "1214836915246040",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -75541,7 +75302,6 @@
     {
       "ownerAddress": "0:6a5a5be0d6bc96173b2a9e275403b26cb35853c40f1a591f4d50bd933173bf05",
       "signerIndex": 31217,
-      "ip": "206.42.104.198",
       "stake": "786287087811442",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -75770,7 +75530,6 @@
     {
       "ownerAddress": "0:659ebf00f1db37e68333316a1b49d98c814d910ddb3a36642d4183b9cf2ba3c9",
       "signerIndex": 31225,
-      "ip": "206.42.104.188",
       "stake": "1352163929177640",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -76089,7 +75848,6 @@
     {
       "ownerAddress": "0:7ff8e7aedb42bc939236d140bac96b96212806d98ec404ae50035539efdb8d79",
       "signerIndex": 31238,
-      "ip": "206.42.104.191",
       "stake": "1183451055478220",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -76408,7 +76166,6 @@
     {
       "ownerAddress": "0:a8ca02bf4c223eaeb9a81e98fd9c7c8bd0f93bef694a683f7e1028ea7d4b21cb",
       "signerIndex": 31372,
-      "ip": "206.42.104.175",
       "stake": "1362558026022520",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -76727,7 +76484,6 @@
     {
       "ownerAddress": "0:9a7393b69798ed641629976ee5b438ac284f1f60ba70b9ca89bff752f9af9cf0",
       "signerIndex": 31652,
-      "ip": "45.90.150.218",
       "stake": "1192361014561780",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -77046,7 +76802,6 @@
     {
       "ownerAddress": "0:58a35c0609309be95928892738b65649eddd88568690458fce27827b58a411fb",
       "signerIndex": 31728,
-      "ip": "94.156.178.64",
       "stake": "1195267876500860",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -77365,7 +77120,6 @@
     {
       "ownerAddress": "0:bbf781e27e1ce7bffa1376594fd1382a114905470233d1d4937d1acf9a1ea702",
       "signerIndex": 31879,
-      "ip": "45.90.150.170",
       "stake": "1284238079177620",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -77684,7 +77438,6 @@
     {
       "ownerAddress": "0:b933cbe1a916e3f74f51423c1747e8f65eb9ea4ea670ec4ffca9a451029d4936",
       "signerIndex": 32031,
-      "ip": "45.90.150.170",
       "stake": "1284279170238480",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -78003,7 +77756,6 @@
     {
       "ownerAddress": "0:1b6258a53c9f0d7b2385e525dfc370090a716b0f8e7b244e46a144959c773e9b",
       "signerIndex": 32069,
-      "ip": "45.90.150.186",
       "stake": "1362371029112960",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -78322,7 +78074,6 @@
     {
       "ownerAddress": "0:0d22cac7d5f44e0845311e4b35556ce03c2bd26136e686621b63158afb269213",
       "signerIndex": 32106,
-      "ip": "94.156.233.32",
       "stake": "1196886629133480",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -78641,7 +78392,6 @@
     {
       "ownerAddress": "0:5d61463dc22b92772f77be6754745342e2f447a7594021c612573dd2b5cf80b3",
       "signerIndex": 32301,
-      "ip": "206.42.104.168",
       "stake": "1362041450940720",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -78960,7 +78710,6 @@
     {
       "ownerAddress": "0:b1d67ad271c7d05c615792be375c9b7ea47bf0ec28b0dea3ecc5a33d526d678f",
       "signerIndex": 32444,
-      "ip": "206.42.104.140",
       "stake": "1193709281459540",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -79279,7 +79028,6 @@
     {
       "ownerAddress": "0:9a74fd9eeda42855c5475cbb8aec32e943087703acb40e16c23259d3095da7ef",
       "signerIndex": 32466,
-      "ip": "94.156.233.55",
       "stake": "1192159282859080",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -79598,7 +79346,6 @@
     {
       "ownerAddress": "0:9684697c8d227596997ffeca1fb5484c60ce871bff945208f98f8c450b4fe0e8",
       "signerIndex": 32475,
-      "ip": "94.156.178.36",
       "stake": "1361345015430400",
       "status": "Active",
       "nodeVersion": "1.0.2",
@@ -79917,7 +79664,6 @@
     {
       "ownerAddress": "0:2bd7ca6d596916807ecd428723427bf7dd93ba84e0762127e8f408bd41071c33",
       "signerIndex": 32522,
-      "ip": "206.42.104.162",
       "stake": "1191733165573200",
       "status": "Active",
       "nodeVersion": "1.0.2",
