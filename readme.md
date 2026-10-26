@@ -1,6 +1,6 @@
 <p align="center">
   <a target="_blank" href="https://acki.live">
-    <img src="https://acki.live/logo-vertical-white.svg" alt="acki nacki logo" />
+    <img src="assets/logo-horizontal-black.svg" alt="acki.live logo" />
   </a>
 </p>
 <h3 align="center">
