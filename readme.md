@@ -3,9 +3,7 @@
     <img src="assets/logo-horizontal-black.svg" alt="acki.live logo" />
   </a>
 </p>
-<h3 align="center">
-  <a target="_blank" href="https://acki.live">acki.live — blockchain explorer</a>
-</h3>
+<p align="center">Blockchain explorer for Acki Nacki protocol</p>
 <p align="center">
   <a href="https://github.com/ever-guild/acki.live/issues/new">feature request</a>
 </p>
